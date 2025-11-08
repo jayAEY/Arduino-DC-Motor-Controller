@@ -3,19 +3,10 @@
 [![Tinkercad Design](https://img.shields.io/badge/Tinkercad-View%20Design-brightgreen?style=for-the-badge&logo=tinkercad)](https://www.tinkercad.com/things/hM7xuqlaAPW-arduino-dc-motor-controller?sharecode=fTR0VJ1MF7x52sB05V9uynOJFpLAZXVYweU7w-ntLRI)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
-A **software-based PWM DC motor speed controller** using an Arduino, a 2N2222 transistor, and three push buttons to adjust the motor’s duty cycle (80%, 50%, 20%).
-
-
-A simple **software-based PWM DC motor speed controller** using an Arduino, three push buttons, and bit-banged pulse width modulation — no external libraries or hardware PWM required!
-
-This project demonstrates how to control a DC motor at **20%, 50%, and 80% duty cycle** using only digital I/O and precise `delay()` timing.
+A **software-based PWM DC motor speed controller** using an Arduino, a 2N2222 transistor, and three bitmasked push buttons to adjust the motor’s duty cycle (80%, 50%, 20%) through port registers.
 
 ---
-
-### Circuit Preview (Tinkercad)
-![Circuit](https://cdn.tinkercad.com/things/hM7xuqlaAPW/screenshot_1.png)
-> [Open in Tinkercad →](https://www.tinkercad.com/things/hM7xuqlaAPW-arduino-dc-motor-controller?sharecode=fTR0VJ1MF7x52sB05V9uynOJFpLAZXVYweU7w-ntLRI)
-
+![Project Preview](arduino-dc-motor-siumulation.gif)
 ---
 
 ### Features
