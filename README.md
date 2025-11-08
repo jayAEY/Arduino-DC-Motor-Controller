@@ -7,7 +7,7 @@ A **software-based PWM DC motor speed controller** using an Arduino, a 2N2222 tr
 
 ---
 ![Project Preview](./img/arduino-dc-motor-siumulation.gif)
-![schematic](./img/Arduino DC Motor Controller.pdf)
+![schematic](./img/arduino_dc_motor_controller1-schematic.jpg)
 
 ---
 
