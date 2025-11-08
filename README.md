@@ -6,7 +6,7 @@
 A **software-based PWM DC motor speed controller** using an Arduino, a 2N2222 transistor, and three bitmasked push buttons to adjust the motor’s duty cycle (80%, 50%, 20%) through port registers.
 
 ---
-![Project Preview](arduino-dc-motor-siumulation.gif)
+![Project Preview](./arduino-dc-motor-siumulation.gif)
 ---
 
 ### Features
